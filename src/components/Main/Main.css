@@ -1,20 +1,14 @@
 .adjust-margin {
-    margin: 0 4.5rem;
+    margin: 0 3rem;
 }
 
 .main {
-    min-height: 5vh;
+    min-height: 50vh;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     font-size: 1rem;
-}
-
-.coral-tooltip {
-    background: #fff4d2;
-    padding-block: 5px;
-    border-radius: 5px;
 }
 
 .info-circle {
@@ -27,6 +21,27 @@
     font-size: 12px;
 }
 
+.m-right-25 {
+    margin-right: 25px;
+}
+
+.m-left-25 {
+    margin-left: 25px;
+}
+
 .p-block-10 {
     padding-block: 10px;
+}
+
+.bg-white {
+    background: white;
+}
+
+.border-white {
+    border-color: white;
+}
+
+.rounded-border {
+    border-radius: 20px;
+    padding: 5px 15px;
 }

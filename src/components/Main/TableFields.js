@@ -9,27 +9,27 @@ export const Fields = [
     },
     {
         "headingName": "Design",
-        "designType1": "Complex",
-        "designType2": "Basic",
-        "designType3": "Advanced",
-        "designType4": "Basic",
-        "designType5": "Complex"
+        "designType1": 3,
+        "designType2": 1,
+        "designType3": 2,
+        "designType4": 1,
+        "designType5": 3
     },
     {
         "headingName": "Interactions & Animations",
-        "interAndAnimations1": "Advanced",
-        "interAndAnimations2": "Basic",
-        "interAndAnimations3": "None",
-        "interAndAnimations4": "Basic",
-        "interAndAnimations5": "None"
+        "interAndAnimations1": 2,
+        "interAndAnimations2": 1,
+        "interAndAnimations3": 0,
+        "interAndAnimations4": 1,
+        "interAndAnimations5": 0
     },
     {
         "headingName": "Integration",
-        "integrationType1": "None",
-        "integrationType2": "None",
-        "integrationType3": "Basic",
-        "integrationType4": "None",
-        "integrationType5": "Basic"
+        "integrationType1": 0,
+        "integrationType2": 0,
+        "integrationType3": 1,
+        "integrationType4": 0,
+        "integrationType5": 1
     },
     {
         "headingName": "Cost",
