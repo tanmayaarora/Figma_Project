@@ -21,12 +21,12 @@
     font-size: 12px;
 }
 
-.m-right-25 {
-    margin-right: 25px;
+.m-right-20 {
+    margin-right: 20px;
 }
 
-.m-left-25 {
-    margin-left: 25px;
+.m-left-20 {
+    margin-left: 20px;
 }
 
 .p-block-10 {
@@ -41,7 +41,38 @@
     border-color: white;
 }
 
+.bg-coral {
+    background: coral;
+}
+
+.bg-aquamarine {
+    background: rgb(127, 255, 180);
+}
+
+.bg-mustard {
+    background: rgb(255, 153, 0);
+}
+
+.bg-grey {
+    background: rgb(201, 200, 200);
+}
+
+.font-grey {
+    color: grey;
+}
+
 .rounded-border {
-    border-radius: 20px;
-    padding: 5px 15px;
+    border-radius: 20px
+}
+
+.p-block-3 {
+    padding-block: 3px;
+}
+
+.p-block-5 {
+    padding-block: 5px;
+}
+
+.p-inline-15 {
+    padding-inline: 15px;
 }
